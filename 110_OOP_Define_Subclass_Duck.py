@@ -21,3 +21,11 @@ class Duck(Animal):
     def sound(self):
         return "QUACK!"
 
+
+wings="Flurry"
+print(wings)
+
+Duck=("Filipe", "Yes", "Yellow")
+print (Duck)
+print (type(Duck))
+

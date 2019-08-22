@@ -20,3 +20,4 @@ class Vet_Visit():
         return 'Antibiotics'
 
 
+class Animal():
